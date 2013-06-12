@@ -1,3 +1,5 @@
+# Wrap an antenna around GPIO4 and run this
+
 {execFile} = require 'child_process'
 
 freqs = ["100.0"]
